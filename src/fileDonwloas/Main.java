@@ -7,8 +7,8 @@ import static fileDonwloas.Merge.mergeChunks;
 
 public class Main {
     private static final int THREAD_COUNT = 10; // Number of threads
-    private static final String FILE_URL = "https://www.youtube.com/watch?v=TBtN907mYo8";
-    private static final String OUTPUT_FILE = "C:/Users/shaik/Downloads/downloaded_video.mp4";
+    private static final String FILE_URL = "file location";
+    private static final String OUTPUT_FILE = "systemloc & filename with extension";
 
     public static void main(String[] args) {
         try {
